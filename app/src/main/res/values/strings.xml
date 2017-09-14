@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Six Degrees of Kevin Bacon</string>
+    <string name="actor_edittext_hint">Enter actor\'s name</string>
+</resources>
